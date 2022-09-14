@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Kranky&family=Rouge+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    width: 1200px;
+    margin: auto;
+}
+
+#t1{
+    text-align: end;
+    font-family: "Rouge Script";
+    font-size: 96px;
+    color:#A38314;
+}
+
+#t2{
+    text-align: center;
+    font-family: "Kranky";
+    font-size: 36px;
+    color:#F00A0A;
+}
+
+#t3{
+    text-align: end;
+    font-family: "Kranky";
+    font-size: 36px;
+    color:#1B137B;
+}
+
+#t4{
+    text-align: initial;
+    font-family: "Kranky";
+    font-size: 36px;
+    color:#0B6B2C;
+}
+
+#t5{
+    text-align: initial;
+    font-family: "Kranky";
+    font-size: 36px;
+    color:#000000;
+}
+
+#p1{
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #F00A0A;
+}
+
+#p2{
+    text-align: initial;
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #1B137B;
+}
+
+#p3{
+    text-align:initial;
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #0B6B2C;
+}
+
+#p4{
+    text-align: initial;
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #000000
+}

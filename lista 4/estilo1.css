@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto & display=swap');
+
+body{
+    width: 1140px;
+    margin: auto;
+    font-family:"Roboto";
+}
+
+h1{
+    text-size-adjust: 48px;
+    text-align: center;
+    
+}
+
+.d2{
+    text-size-adjust: 30px;
+    color: #FC3003;
+}
+
+.d3{
+    text-size-adjust: 30px;
+    color: #FC3003;
+}
+
+.d4{
+    text-size-adjust: 30px;
+    color: #FC3003;
+}
