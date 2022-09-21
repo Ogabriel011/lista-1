@@ -1,0 +1,33 @@
+header{
+    width: auto;
+    height: 100px;
+    background-color:green;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.home{
+    color: white;
+    text-decoration: none;
+}
+
+.cadastro{
+    color: white;
+    text-decoration: none;
+}
+
+.titulo{
+    color: black;
+}
+
+.login{
+    color: white;
+    text-decoration: none;
+}
+
+.logout{
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+main{
+    width: 1140px;
+    margin: auto;   
+}
+
+:root{
+    --fontesubtitulo:"Roboto";
+    --corsubtitulo:#FF0101;
+    --tamanhosubtitulo:30px;
+    --posiçãosubtitulo: center;
+}
+
+.logo{
+    width: auto;
+    height: 100px;
+    background-color: black;
+}
+
+#img1{
+    width: 300px;
+}
+
+img{
+    padding: 20px;
+}
+
+h2{
+    font-family:var(--fontesubtitulo);
+    font-size: var(--tamanhosubtitulo);
+    color: var(--corsubtitulo);
+    text-align: var(--posiçãosubtitulo);
+}
+
+.texto_e_imagem{
+    display: flex;
+    justify-content:flex-end;
+    flex-direction: row-reverse;
+}
+
+.text1{
+    padding: 10px 40px;
+    text-align: right;
+}
+
+.part2{
+    width: 1140px;
+    margin: auto;
+
+}
+
+.final{
+    background-color: #FF0101;
+    width: auto;
+    height: 100px;
+}
+
+.text2{
+    padding: 30px;
+    text-align: center;
+    color: white;
+}

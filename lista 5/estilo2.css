@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.header{
+    background-color: #F0F3F3
+}
+
+main{
+    width: 1140px;
+    margin: auto;
+    display: flex;
+    justify-content:space-between;
+}
+
+.login{
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    width: 538px;
+    height: 755px;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.botao{
+    border-radius: 5px;
+    display: flex;
+    width:80px ;
+    height: 39px;
+    color:white;
+    background-color: #8458ff;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.login{
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 600px
+}
+
+
+
+.cadastro{
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    width: 538px;
+    height: 755px;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cadastro{
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 600px
+}
+
+footer{
+    height: 250px;
+    background-color: #f6511d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    font-family: "Roboto";
+    font-size: 32px;
+}
+
+.contatos{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.linha{
+    background-color: #F0F3F3;
+    width: 2px;
+    height: 90%;
+}

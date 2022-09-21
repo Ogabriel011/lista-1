@@ -1,0 +1,35 @@
+:root{
+    --branco: white;
+    --sem_linha: none;
+}
+
+header{
+    width: auto;
+    height: 100px;
+    padding: 5px;
+    background-color: blueviolet;
+
+    display: flex;
+    justify-content: space-around;
+    align-items:center ;
+}
+
+.home{
+    color: var(--branco);
+    text-decoration: none;
+}
+
+.cadastro{
+    color: var(--branco);
+    text-decoration: none;
+}
+
+.login{
+    color: var(--branco);
+    text-decoration: none;
+}
+
+.logout{
+    color: var(--branco);
+    text-decoration: none;
+}

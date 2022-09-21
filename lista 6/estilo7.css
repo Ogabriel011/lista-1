@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+header{
+    width: 1140px;
+    margin: auto;
+    color: #FC5812;
+    font-family: "Roboto";
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    font: size 36px; ;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+ul{
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+main{
+    width: 1140px;
+    margin: auto;
+    font-family: "Roboto";
+
+    display: flex;
+    align-items: center;
+}
+
+#subtitulo{
+    color: #FC5812;
+    text-align: center;
+}
+
+.contato{
+    
+    border: 2px solid black;
+}
+
+form{
+    width: 580px;
+    height: 530px;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+input{
+    width: 580px;
+    border-radius: 4px;
+}
+
+textarea{
+    width: 580px;
+    height: 100px;
+    border-radius: 4px;
+}
+
+button{
+    width: 128px;
+    height: 42px;
+    background-color: #FC5812;
+    color: white;
+    border-radius: 4px;
+}
+
+.direita{
+    width:400px ;
+    height: 684px;
+    margin: 0px 0px 0px 100px;
+    background-color: #FC5812;
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
